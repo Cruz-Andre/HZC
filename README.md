@@ -1,3 +1,10 @@
+# Site HZC
+##  Alura curso: CSS: dispondo elementos com Flexbox e Grid
+Layouts com Flexbox e Grid, mais o desafio da página picos
+#### Github Pages: https://cruz-andre.github.io/HZC/
+
+
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
